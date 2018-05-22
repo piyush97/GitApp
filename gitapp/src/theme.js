@@ -3,10 +3,10 @@ const theme = {
     fontFamily: 'Raleway, Helvetica, sans-serif',
   },
   colors: {
-    primaryColor: '#008000',
+    primaryColor: '#0000ff',
     titleColor: 'white'
   },
-  secondaryColor: 'mediumseagreen',
+  secondaryColor: 'blue',
 };
 
 export default theme;

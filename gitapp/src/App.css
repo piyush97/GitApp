@@ -2,6 +2,7 @@
 .container {
   width: 100%;
   height: 100vh;
+  color:#fbfbfb;
 }
 
 .data-search-container {
@@ -48,7 +49,7 @@
 
 /* header styles */
 .navbar {
-  background: mediumseagreen;
+  background: #00CDCD;
   left: 0;
   width: 400px;
   padding: 1rem;
@@ -58,8 +59,8 @@
 }
 
 .title {
-  color: white;
-  font-family: 'Monoton', cursive;
+  color: #fbfbfb;
+  font-family: 'Raleway', cursive;
   font-size: 2rem;
   text-align: center;
 }
@@ -90,7 +91,7 @@
 
 .link {
   cursor: pointer;
-  color: mediumseagreen;
+  color: #00CDCD;
   text-decoration: none;
   font-weight: bold;
   margin-left: 20px;
@@ -98,7 +99,7 @@
 }
 
 .topic {
-  background: mediumseagreen;
+  background: #00CDCD;
   margin: 3px;
   padding: 4px;
   color: white;
@@ -128,7 +129,7 @@
 
 .toggle-btn:hover {
   background: white;
-  color: mediumseagreen;
+  color: #00CDCD;
 }
 
 .range-label {
