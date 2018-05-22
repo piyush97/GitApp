@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { ReactiveBase, DataSearch } from '@appbaseio/reactivesearch';//ReactiveBase Search Thingy added
 import theme from './theme';
 import Results from './components/Results'; //result component added
-
+import Footer from './components/Footer';
 import './App.css';
 class App extends Component {
   render() {
@@ -33,12 +33,16 @@ class App extends Component {
                 innerClass={{
                     input: 'search-input',
                 }}
-            />
+            />       
            <Results/>
 
         </div>
     </div>
+           <Footer></Footer>
+
         </ReactiveBase>
+        
+
       </section>
     );
   }
