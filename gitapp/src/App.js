@@ -11,13 +11,14 @@ class App extends Component {
         <ReactiveBase
           app="PiyushApp"
           credentials="QLZRFlbxX:299ef607-115d-49a9-840a-481be326118f"
-          type="gitxplore-latest" //taking data from gitxplore dataset appbase
+          type="gitxplore-latest" 
           theme={theme}
-        >
+        >      {/*taking data from gitxplore dataset appbase*/}
+
           <nav className="navbar">
             <div className="title">gitApp</div>
           </nav>
-          // Adding the DataSearch here
+         { /*Adding the DataSearch here*/}
     <div className="flex row-reverse app-container">
         <div className="results-container">
             <DataSearch
