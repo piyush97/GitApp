@@ -9,9 +9,9 @@ class App extends Component {
     return (
       <section className="container">
         <ReactiveBase
-          app="gitapp-Piyush"
-          credentials="oNNmd9afg:22b783fd-7ed2-46fc-85bc-7ddb976e7897"
-          type="gitapp-Piyush"
+          app="PiyushApp"
+          credentials="QLZRFlbxX:299ef607-115d-49a9-840a-481be326118f"
+          type="gitxplore-latest" //taking data from gitxplore dataset appbase
           theme={theme}
         >
           <nav className="navbar">
