@@ -25,8 +25,7 @@ var phantom = {
 var MYFAV={
 	color:'#00CDCD',
 }
-var a={
-}
+
 function Footer() {
 	
     return (
