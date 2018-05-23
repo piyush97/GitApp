@@ -33,9 +33,9 @@ function Footer() {
         <div>
             <div style={phantom} />
             <div style={style}>
-            <a style={a} href="https://github.com/piyush97">
+            
 <span style={MYFAV}><i class="fa fa-code" aria-hidden="true"></i>  With <i class="fa fa-heart" aria-hidden="true"></i> By Piyush <br/>Check me out on <i class="fab fa-github"></i>
- </span></a>
+ </span>
 
             </div>
         </div>

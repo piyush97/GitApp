@@ -3,6 +3,7 @@ import { ReactiveBase, DataSearch } from '@appbaseio/reactivesearch';
 
 import Header from './components/Header';
 import Results from './components/Results';
+import Footer from './components/Footer';
 
 import theme from './theme';
 import './App.css';
@@ -59,6 +60,7 @@ class App extends Component {
               <Results currentTopics={this.state.currentTopics} toggleTopic={this.toggleTopic} />
             </div>
           </div>
+          <Footer></Footer>
         </ReactiveBase>
       </section>
     );
