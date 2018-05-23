@@ -52,7 +52,11 @@ const SearchFilters = ({ currentTopics, setTopics, visible }) => (
 				placeholder="Repo created"
 				title="Created"
 				filterLabel="Created"
-				data={[
+				data={[{
+						start: '2018-01-01T00:00:00Z',
+						end: '2018-12-31T23:59:59Z',
+						label: '2018',
+					},
 					{
 						start: '2017-01-01T00:00:00Z',
 						end: '2017-12-31T23:59:59Z',
