@@ -3,7 +3,6 @@
 <p align="center">
 
 <img src="https://image.ibb.co/jDAm88/Screen_Shot_2018_05_24_at_11_21_22_AM.jpg" alt="Screen_Shot_2018_05_24_at_11_21_22_AM" border="0">
- <h1 align="center">GitApp</h1>
  <h4 align="center">A small Tribute to github for being there for 10 years!</h4>
 
 </p>
