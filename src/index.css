@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Monoton|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Roboto:500');
 
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Raleway', 'Arial', sans-serif;
+font-family: 'Roboto', sans-serif;
   color:#fbfbfb;
 }
