@@ -29,10 +29,13 @@
 
 <img src="https://preview.ibb.co/bPZ2gT/Screen_Shot_2018_05_24_at_11_28_08_AM.jpg" alt="Screen_Shot_2018_05_24_at_11_28_08_AM" border="0">
 </p>
-
-
-
-
+<h2 align="center">Screenshot Google Pixel </h2>
+<p align="center"><img src="https://image.ibb.co/kymqJ8/Screen_Shot_2018_05_24_at_12_16_39_PM.jpg" alt="Screen_Shot_2018_05_24_at_12_16_39_PM" border="0">
+</p>
+<h2 align="center">Screenshot iPhoneX  </h2>
+<p align="center">
+<img src="https://image.ibb.co/kRY9BT/Screen_Shot_2018_05_24_at_12_19_25_PM.jpg" alt="Screen_Shot_2018_05_24_at_12_19_25_PM" border="0">
+</p>
 <p align="center">
 
 <img src="http://axure.guru/wp-content/uploads/2017/12/faLogoFull.jpg" border="0" width="100px" height="100px">
